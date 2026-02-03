@@ -1,139 +1,306 @@
-# 🧠 Resumo Geral — Programa Centelha 3 (Pernambuco)
+# Documentação Estratégica — VIRAL + MVP
 
-Este documento consolida **todos os pontos discutidos** sobre o Edital Centelha 3 – PE, com foco em **prazos, fases, documentação, contrapartida financeira e liberação dos recursos**.
-
----
-
-## 1️⃣ Inscrição – Fase 1 (Ideias Inovadoras)
-
-* 📅 **Prazo final:** **20/01/2026 às 18h**
-* 📍 **Onde:** Sistema oficial do Centelha PE
-* 📄 **Documentos:** Não há envio de documentação formal nesta fase
-* 📌 **O que é avaliado:**
-
-  * Descrição da ideia
-  * Problema e solução
-  * Grau de inovação
-  * Potencial de mercado
-  * Impacto
-  * Equipe (se houver)
-  * Vídeo pitch e PDF são **opcionais**, mas recomendados
+## colabor.ai — Colaboradores Digitais em Workflows Reais
 
 ---
 
-## 2️⃣ Resultado da Fase 1
+## 1. Objetivo do Documento
 
-* 📅 **Resultado preliminar:** **26/02/2026**
-* 📅 **Prazo para recursos:** 27/02 a 09/03/2026
-* 📅 **Resultado final da Fase 1:** **24/03/2026**
+Este documento consolida a **estratégia de produto inicial da colabor.ai**, unindo:
 
-➡️ Apenas os aprovados seguem para a Fase 2.
+* o **Framework V.I.R.A.L.** como diretriz de viralização e adoção orgânica
+* a definição de um **MVP mínimo**, focado em **efeito psicológico**, não em cobertura funcional
 
----
-
-## 3️⃣ Fase 2 – Projeto de Fomento
-
-* 📅 **Período de submissão:** **25/03/2026 a 24/04/2026**
-* 📌 Nesta etapa você entrega:
-
-  * Projeto técnico detalhado
-  * Plano de trabalho
-  * Cronograma de execução
-  * Orçamento
-  * Modelo de negócio
-
-⚠️ Ainda **não é a fase de envio de documentos legais** (empresa, certidões etc.).
+O foco não é provar tecnologia, mas **gerar sensação imediata de capacidade, alívio cognitivo e autonomia** no usuário.
 
 ---
 
-## 4️⃣ Resultado da Fase 2
+## 2. Princípio Norteador
 
-* 📅 **Resultado final:** **26/06/2026**
-* 📅 **Publicação no Diário Oficial:** **29/06/2026**
+> **A colabor.ai não vende automação.**
+> **Ela tira processos da cabeça das pessoas e os coloca para andar sozinhos.**
 
-➡️ A partir daqui o projeto está oficialmente aprovado para contratação.
+Todo elemento do MVP e do VIRAL deve responder à pergunta:
 
----
-
-## 5️⃣ Documentação para Contratação (Pós-Fase 2)
-
-* 📅 **Quando:** Após o resultado final da Fase 2, mediante convocação da FACEPE
-* ⏱️ **Prazo típico:** 15 a 30 dias (definido na convocação)
-
-📄 **Documentos normalmente exigidos:**
-
-* RG e CPF do proponente
-* Comprovante de residência em Pernambuco
-* Empresa constituída (ME ou EPP — MEI não é aceito)
-* Contrato social ou Inova Simples
-* Certidões negativas
-* Conta bancária **exclusiva do projeto**
-* Declarações exigidas no edital
+> *“Isso faz o usuário sentir que agora alguém está cuidando disso por ele?”*
 
 ---
 
-## 6️⃣ Contrapartida Financeira (Item 5.3.3 do Edital)
+## 3. Framework V.I.R.A.L aplicado à colabor.ai
 
-* 💰 **Obrigatória**
-* 💵 Deve ser em **dinheiro**, não sendo aceitas contrapartidas em horas ou infraestrutura
-* 🏦 Deve ser depositada:
+### V — Valor Imediato (Time to Wow ≈ 0)
 
-  * **Antes** de cada parcela da subvenção
-  * Em **conta bancária exclusiva do projeto**
-  * De forma **proporcional às parcelas do projeto**
+#### Pergunta decisiva
 
-🚫 Sem o depósito da contrapartida → **a parcela não é liberada**.
+O usuário percebe valor em até **30 segundos**?
 
----
+#### Aplicação prática
 
-## 7️⃣ Assinatura do Termo de Outorga
+* Entrada única via conversa
+* Primeira pergunta ativa uma dor real do trabalho
+* O usuário vê seu **processo representado visualmente** quase instantaneamente
 
-* 📅 Normalmente ocorre entre **julho e agosto de 2026**
-* 📌 É o contrato formal entre a empresa/proponente e a FACEPE
-* ❌ Sem assinatura → **não há liberação de recursos**
+#### Implementações-chave
 
----
+* Conversa inicial guiada
+* Geração automática de um workflow visual simples
+* Destaque imediato de gargalos (tempo, dependência humana, risco)
 
-## 8️⃣ Liberação dos Recursos 💰
+#### Evidência de valor
 
-A liberação do dinheiro acontece **somente após**:
-
-1. Resultado final da Fase 2
-2. Entrega e validação de toda a documentação
-3. Assinatura do Termo de Outorga
-4. Depósito da contrapartida da 1ª parcela
-
-📅 **Estimativa realista da 1ª parcela:**
-➡️ **Agosto a setembro de 2026**
-
-📌 Os recursos são liberados **em parcelas**, sempre condicionadas a:
-
-* Depósito prévio da contrapartida
-* Execução do projeto
-* Prestação de contas parcial
+> “Esse é exatamente o processo que me consome.”
 
 ---
 
-## 🧭 Linha do Tempo Simplificada
+### I — Intuitividade Extrema (Zero esforço cognitivo)
 
-| Etapa                   | Data aproximada |
-| ----------------------- | --------------- |
-| Inscrição Fase 1        | Até 20/01/2026  |
-| Resultado final Fase 1  | 24/03/2026      |
-| Envio da Fase 2         | Até 24/04/2026  |
-| Resultado final Fase 2  | 26/06/2026      |
-| Documentação / Contrato | Jul–Ago/2026    |
-| Liberação da 1ª parcela | Ago–Set/2026    |
+#### Pergunta decisiva
+
+Dá para usar sem ninguém explicar?
+
+#### Aplicação prática
+
+* Interface conversacional como ponto central
+* Um único fluxo por vez
+* Um único colaborador digital por workflow
+
+#### Decisões de design
+
+* Não usar BPMN formal no MVP
+* Fluxo visual com caixas simples, setas e ícones
+* Linguagem 100% humana (sem jargões técnicos)
+
+#### Evidência de intuitividade
+
+> “Eu só respondi perguntas e isso apareceu pronto.”
 
 ---
 
-## 🎯 Dicas Estratégicas Finais
+### R — Recompensa Psicológica (Empoderamento)
 
-* Planeje o projeto considerando **1–2 meses sem recursos após aprovação**
-* Separe caixa antecipadamente para a **contrapartida financeira**
-* Antecipe abertura da empresa e da conta bancária exclusiva
-* Organização documental acelera a liberação do dinheiro
+#### Pergunta decisiva
+
+O uso gera sensação de capacidade?
+
+#### Tipo de recompensa priorizada
+
+💪 **Empoderamento operacional**
+
+#### Aplicação prática
+
+* O colaborador digital assume o papel de acompanhamento
+* O usuário deixa de ser o ponto de controle do processo
+* Ações reais acontecem sem intervenção direta
+
+#### Microvitórias visíveis
+
+* Workflow muda de status sozinho
+* Pessoas reais são acionadas
+* Histórico registra ações do agente
+
+#### Evidência psicológica
+
+> “Isso saiu da minha cabeça.”
 
 ---
 
-📌 **Este resumo serve como guia prático de acompanhamento do edital Centelha 3 – PE.**
+### A — Adaptação Contínua
+
+#### Pergunta decisiva
+
+O produto melhora a cada uso?
+
+#### Aplicação prática no MVP
+
+* O histórico do workflow influencia próximas sugestões
+* O agente aprende:
+
+  * prazos reais
+  * gargalos frequentes
+  * pessoas envolvidas
+
+#### Importante
+
+No MVP, **a adaptação é percebida**, não sofisticada.
+
+#### Evidência percebida
+
+> “Ele já entendeu como esse processo funciona aqui.”
+
+---
+
+### L — Loop de Compartilhamento
+
+#### Pergunta decisiva
+
+O próprio uso gera compartilhamento?
+
+#### Aplicação prática
+
+* O loop nasce do **processo**, não de CTA
+* O colaborador digital entra em contato com outras pessoas
+* Outras áreas passam a fazer parte do workflow
+
+#### Gatilho social
+
+> “Quem é esse colaborador digital que está me cobrando isso?”
+
+#### Resultado
+
+* Curiosidade
+* Conversa
+* Adoção orgânica
+
+---
+
+## 4. MVP Mínimo — Definição Estratégica
+
+### Objetivo do MVP
+
+> **Gerar alívio cognitivo imediato em um processo real.**
+
+Não provar escala, não cobrir múltiplos casos, não mostrar poder técnico.
+
+---
+
+## 5. Escopo do MVP (o que entra)
+
+### 5.1 Entrada do Usuário
+
+* Uma pergunta inicial:
+
+  > “Qual processo hoje mais depende de você lembrar, cobrar ou acompanhar?”
+
+---
+
+### 5.2 Criação do Workflow Virtual
+
+* Conversa → fluxo visual simples
+* Representação linear do processo
+* Destaque visual para:
+
+  * etapas manuais
+  * dependência humana
+  * prazos
+
+---
+
+### 5.3 Colaborador Digital
+
+* Apenas **um agente** por workflow
+* Funções do agente:
+
+  1. acompanhar etapas
+  2. monitorar tempo
+  3. acionar pessoas
+
+O agente **não executa sistemas complexos no MVP**.
+
+---
+
+### 5.4 Gatilhos
+
+* Apenas **gatilhos baseados em tempo**
+
+  * X dias antes
+  * Y dias sem resposta
+
+Tempo é o principal gerador de ansiedade operacional.
+
+---
+
+### 5.5 Integração com a Realidade
+
+* Uma única fonte de verdade:
+
+  * Google Sheets, CSV ou input manual recorrente
+
+A pergunta nunca é:
+
+> “Configure uma integração”
+
+Mas sim:
+
+> “Onde essa informação vive hoje?”
+
+---
+
+### 5.6 Ação no Mundo Real
+
+* Um canal de saída:
+
+  * WhatsApp **ou** E-mail
+
+Mensagem contextual, clara e humana.
+
+---
+
+### 5.7 Feedback Visível
+
+* Status do workflow muda automaticamente
+* Histórico registra ações do agente
+* O usuário vê o processo andar sem ele
+
+---
+
+## 6. Caso Único do MVP
+
+### Tipo de processo ideal
+
+**Processos com:**
+
+* prazo
+* dependência humana
+* risco de esquecimento
+
+Exemplos:
+
+* contratos
+* pagamentos
+* aprovações
+* documentos
+
+---
+
+## 7. O que NÃO entra no MVP
+
+* BPMN formal completo
+* múltiplos agentes
+* regras condicionais complexas
+* dashboards analíticos
+* marketplace
+
+Tudo isso **só entra depois que o efeito psicológico estiver validado**.
+
+---
+
+## 8. Definição Final do MVP
+
+> **Um colaborador digital que acompanha um processo real, lembra pessoas no tempo certo e tira isso da cabeça do usuário.**
+
+---
+
+## 9. Checklist Final do MVP
+
+* [ ] Conversa inicial guiada
+* [ ] Workflow visual simples
+* [ ] 1 colaborador digital
+* [ ] 1 tipo de gatilho
+* [ ] 1 integração simples
+* [ ] 1 canal de comunicação
+* [ ] Feedback visível
+* [ ] Pessoas reais impactadas
+
+---
+
+## 10. Conclusão
+
+A colabor.ai não começa como uma plataforma completa.
+
+Ela começa como **o primeiro colaborador digital confiável** dentro de um processo real.
+
+Quando o usuário sente:
+
+> *“Agora isso funciona sem mim”*
+
+O produto viraliza naturalmente.
